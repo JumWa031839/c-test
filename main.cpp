@@ -26,7 +26,7 @@ public:
 
 int main()
 {
-	point *map[MAP][MAP]; //y, x
+	point *map[MAP][MAP];
 	point *pnt[PCNT];
 
 	srand((unsigned)time(NULL));
